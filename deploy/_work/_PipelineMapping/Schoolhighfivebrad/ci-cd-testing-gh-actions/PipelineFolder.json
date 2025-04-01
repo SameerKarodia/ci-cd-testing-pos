@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "Schoolhighfivebrad/ci-cd-testing-gh-actions",
+  "pipelineDirectory": "ci-cd-testing-gh-actions",
+  "workspaceDirectory": "ci-cd-testing-gh-actions\\ci-cd-testing-gh-actions",
+  "repositories": {
+    "Schoolhighfivebrad/ci-cd-testing-gh-actions": {
+      "repositoryPath": "ci-cd-testing-gh-actions\\ci-cd-testing-gh-actions",
+      "lastRunOn": "03/29/2024 15:48:44 -05:00"
+    }
+  },
+  "lastRunOn": "03/29/2024 16:02:35 -05:00"
+}

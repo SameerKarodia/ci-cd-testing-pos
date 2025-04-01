@@ -1,0 +1,244 @@
+[2024-03-29 20:48:01Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2024-03-29 20:48:01Z INFO HostContext] Well known directory 'Bin': 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\bin'
+[2024-03-29 20:48:01Z INFO HostContext] Well known directory 'Root': 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy'
+[2024-03-29 20:48:01Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\.credentials'
+[2024-03-29 20:48:01Z INFO HostContext] Well known directory 'Bin': 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\bin'
+[2024-03-29 20:48:01Z INFO HostContext] Well known directory 'Root': 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy'
+[2024-03-29 20:48:01Z INFO HostContext] Well known config file 'Runner': 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\.runner'
+[2024-03-29 20:48:01Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2024-03-29 20:48:01Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.22631.
+[2024-03-29 20:48:01Z INFO Listener] Version: 2.314.1
+[2024-03-29 20:48:01Z INFO Listener] Commit: 976290d966e6cc3e748a49bf8fdbe139ff764201
+[2024-03-29 20:48:01Z INFO Listener] Culture: en-CA
+[2024-03-29 20:48:01Z INFO Listener] UI Culture: en-US
+[2024-03-29 20:48:01Z INFO HostContext] Well known directory 'Bin': 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\bin'
+[2024-03-29 20:48:01Z INFO HostContext] Well known directory 'Root': 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy'
+[2024-03-29 20:48:01Z INFO Listener] Validating directory permissions for: 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy'
+[2024-03-29 20:48:01Z INFO CommandLineParser] Parse
+[2024-03-29 20:48:01Z INFO CommandLineParser] Parsing 1 args
+[2024-03-29 20:48:01Z INFO CommandLineParser] parsing argument
+[2024-03-29 20:48:01Z INFO CommandLineParser] HasArgs: False
+[2024-03-29 20:48:01Z INFO CommandLineParser] Adding Command: run
+[2024-03-29 20:48:01Z INFO Listener] Arguments parsed
+[2024-03-29 20:48:01Z INFO Runner] ExecuteCommand
+[2024-03-29 20:48:01Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\bin\Runner.Listener.dll
+[2024-03-29 20:48:01Z INFO HostContext] Well known directory 'Bin': 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\bin'
+[2024-03-29 20:48:01Z INFO ConfigurationStore] binPath: C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\bin
+[2024-03-29 20:48:01Z INFO HostContext] Well known directory 'Bin': 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\bin'
+[2024-03-29 20:48:01Z INFO HostContext] Well known directory 'Root': 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy'
+[2024-03-29 20:48:01Z INFO ConfigurationStore] RootFolder: C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy
+[2024-03-29 20:48:01Z INFO HostContext] Well known directory 'Bin': 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\bin'
+[2024-03-29 20:48:01Z INFO HostContext] Well known directory 'Root': 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy'
+[2024-03-29 20:48:01Z INFO HostContext] Well known config file 'Runner': 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\.runner'
+[2024-03-29 20:48:01Z INFO ConfigurationStore] ConfigFilePath: C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\.runner
+[2024-03-29 20:48:01Z INFO HostContext] Well known directory 'Bin': 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\bin'
+[2024-03-29 20:48:01Z INFO HostContext] Well known directory 'Root': 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy'
+[2024-03-29 20:48:01Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\.credentials'
+[2024-03-29 20:48:01Z INFO ConfigurationStore] CredFilePath: C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\.credentials
+[2024-03-29 20:48:01Z INFO HostContext] Well known directory 'Bin': 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\bin'
+[2024-03-29 20:48:01Z INFO HostContext] Well known directory 'Root': 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy'
+[2024-03-29 20:48:01Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\.credentials_migrated'
+[2024-03-29 20:48:01Z INFO ConfigurationStore] MigratedCredFilePath: C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\.credentials_migrated
+[2024-03-29 20:48:01Z INFO HostContext] Well known directory 'Bin': 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\bin'
+[2024-03-29 20:48:01Z INFO HostContext] Well known directory 'Root': 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy'
+[2024-03-29 20:48:01Z INFO HostContext] Well known config file 'Service': 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\.service'
+[2024-03-29 20:48:01Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\.service
+[2024-03-29 20:48:01Z INFO CommandSettings] Flag 'help': 'False'
+[2024-03-29 20:48:01Z INFO CommandSettings] Flag 'version': 'False'
+[2024-03-29 20:48:01Z INFO CommandSettings] Flag 'commit': 'False'
+[2024-03-29 20:48:01Z INFO CommandSettings] Flag 'check': 'False'
+[2024-03-29 20:48:01Z INFO CommandSettings] Command 'configure': 'False'
+[2024-03-29 20:48:01Z INFO CommandSettings] Command 'remove': 'False'
+[2024-03-29 20:48:01Z INFO CommandSettings] Command 'warmup': 'False'
+[2024-03-29 20:48:01Z INFO ConfigurationManager] LoadSettings
+[2024-03-29 20:48:01Z INFO ConfigurationStore] IsConfigured()
+[2024-03-29 20:48:01Z INFO ConfigurationStore] IsConfigured: True
+[2024-03-29 20:48:01Z INFO ConfigurationManager] Is configured: True
+[2024-03-29 20:48:01Z INFO ConfigurationStore] Read setting file: 323 chars
+[2024-03-29 20:48:01Z INFO ConfigurationManager] Settings Loaded
+[2024-03-29 20:48:01Z INFO ConfigurationStore] IsServiceConfigured()
+[2024-03-29 20:48:01Z INFO ConfigurationStore] IsServiceConfigured: True
+[2024-03-29 20:48:01Z INFO CommandSettings] Command 'run': 'True'
+[2024-03-29 20:48:01Z INFO ConfigurationStore] IsConfigured()
+[2024-03-29 20:48:01Z INFO ConfigurationStore] IsConfigured: True
+[2024-03-29 20:48:01Z INFO ConfigurationManager] Is configured: True
+[2024-03-29 20:48:01Z INFO Runner] Try determine runner startup type base on console redirects.
+[2024-03-29 20:48:01Z INFO Runner] Set runner startup type - Manual
+[2024-03-29 20:48:01Z INFO CommandSettings] Flag 'once': 'False'
+[2024-03-29 20:48:01Z INFO CommandSettings] Flag 'once': 'False'
+[2024-03-29 20:48:01Z INFO Runner] RunAsync
+[2024-03-29 20:48:01Z INFO ConfigurationManager] LoadSettings
+[2024-03-29 20:48:01Z INFO ConfigurationStore] IsConfigured()
+[2024-03-29 20:48:01Z INFO ConfigurationStore] IsConfigured: True
+[2024-03-29 20:48:01Z INFO ConfigurationManager] Is configured: True
+[2024-03-29 20:48:01Z INFO ConfigurationManager] Settings Loaded
+[2024-03-29 20:48:02Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "deploy",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus9.actions.githubusercontent.com/Cpi1gS6STmIRhGqtqtK1TgAG1Pnw4DzNCS043vTvHTazqrCoTG/",
+  "GitHubUrl": "https://github.com/Schoolhighfivebrad/ci-cd-testing-gh-actions",
+  "WorkFolder": "_work"
+}
+[2024-03-29 20:48:02Z INFO MessageListener] Loading Credentials
+[2024-03-29 20:48:02Z INFO ConfigurationStore] HasCredentials()
+[2024-03-29 20:48:02Z INFO ConfigurationStore] stored True
+[2024-03-29 20:48:02Z INFO CredentialManager] GetCredentialProvider
+[2024-03-29 20:48:02Z INFO CredentialManager] Creating type OAuth
+[2024-03-29 20:48:02Z INFO CredentialManager] Creating credential type: OAuth
+[2024-03-29 20:48:02Z INFO HostContext] Well known directory 'Bin': 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\bin'
+[2024-03-29 20:48:02Z INFO HostContext] Well known directory 'Root': 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy'
+[2024-03-29 20:48:02Z INFO HostContext] Well known config file 'RSACredentials': 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\.credentials_rsaparams'
+[2024-03-29 20:48:02Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\.credentials_rsaparams
+[2024-03-29 20:48:02Z INFO MessageListener] Attempt to create session.
+[2024-03-29 20:48:02Z INFO MessageListener] Connecting to the Runner Server...
+[2024-03-29 20:48:02Z INFO RunnerServer] EstablishVssConnection
+[2024-03-29 20:48:02Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2024-03-29 20:48:02Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-03-29 20:48:02Z INFO RunnerServer] EstablishVssConnection
+[2024-03-29 20:48:02Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-03-29 20:48:02Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-03-29 20:48:02Z INFO RunnerServer] EstablishVssConnection
+[2024-03-29 20:48:02Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-03-29 20:48:02Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-03-29 20:48:02Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-03-29 20:48:02Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-03-29 20:48:02Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-03-29 20:48:02Z INFO MessageListener] VssConnection created
+[2024-03-29 20:48:02Z INFO Terminal] WRITE LINE: 
+[2024-03-29 20:48:02Z INFO Terminal] WRITE LINE: 
+[2024-03-29 20:48:02Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\.credentials_rsaparams
+[2024-03-29 20:48:02Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\.credentials_rsaparams
+[2024-03-29 20:48:02Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2024-03-29 20:48:02Z INFO MessageListener] Session created.
+[2024-03-29 20:48:02Z INFO Terminal] WRITE LINE: Current runner version: '2.314.1'
+[2024-03-29 20:48:02Z INFO Terminal] WRITE LINE: 2024-03-29 20:48:02Z: Listening for Jobs
+[2024-03-29 20:48:02Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2024-03-29 20:48:43Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\.credentials_rsaparams
+[2024-03-29 20:48:43Z INFO MessageListener] Message '7' received from session '860e785d-eb18-4519-9419-807f7f913659'.
+[2024-03-29 20:48:43Z INFO Runner] Received job message of length 25281 from service, with hash 'edf07b25a882b151ddaf3d137f51fee8763ec7f7bd5b2eec1af0146c93c4e48f'
+[2024-03-29 20:48:43Z INFO JobDispatcher] Job request 14 for plan 634b4904-8491-485b-9abb-c7c13953e799 job 6621f301-ad18-5d46-97dd-869f4cb20c65 received.
+[2024-03-29 20:48:43Z INFO JobDispatcher] Pull OrchestrationId 634b4904-8491-485b-9abb-c7c13953e799.build._18_x from JWT claims
+[2024-03-29 20:48:43Z INFO MessageListener] Received job status event. JobState: Busy
+[2024-03-29 20:48:43Z INFO MessageListener] _getMessagesTokenSource is already disposed.
+[2024-03-29 20:48:43Z INFO Terminal] WRITE LINE: 2024-03-29 20:48:43Z: Running job: build (18.x)
+[2024-03-29 20:48:43Z INFO JobDispatcher] Start renew job request 14 for job 6621f301-ad18-5d46-97dd-869f4cb20c65.
+[2024-03-29 20:48:43Z INFO JobDispatcher] Successfully renew job request 14, job is valid till 2024-03-29 8:58:43 PM
+[2024-03-29 20:48:43Z INFO HostContext] Well known directory 'Bin': 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\bin'
+[2024-03-29 20:48:43Z INFO ProcessInvokerWrapper] Starting process:
+[2024-03-29 20:48:43Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\bin\Runner.Worker.exe'
+[2024-03-29 20:48:43Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 1880 632'
+[2024-03-29 20:48:43Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\bin'
+[2024-03-29 20:48:43Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2024-03-29 20:48:43Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2024-03-29 20:48:43Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2024-03-29 20:48:43Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2024-03-29 20:48:43Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2024-03-29 20:48:43Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2024-03-29 20:48:43Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2024-03-29 20:48:43Z INFO ProcessInvokerWrapper] Process started with process id 18816, waiting for process exit.
+[2024-03-29 20:48:43Z INFO JobDispatcher] Send job request message to worker for job 6621f301-ad18-5d46-97dd-869f4cb20c65.
+[2024-03-29 20:48:43Z INFO ProcessChannel] Sending message of length 25281, with hash 'edf07b25a882b151ddaf3d137f51fee8763ec7f7bd5b2eec1af0146c93c4e48f'
+[2024-03-29 20:48:43Z INFO ConfigurationStore] Saving runner settings.
+[2024-03-29 20:48:43Z INFO ConfigurationStore] Delete exist runner settings file.
+[2024-03-29 20:48:43Z INFO ConfigurationStore] Settings Saved.
+[2024-03-29 20:48:43Z INFO JobNotification] Entering JobStarted Notification
+[2024-03-29 20:48:43Z INFO JobNotification] Entering StartMonitor
+[2024-03-29 20:49:43Z INFO JobDispatcher] Successfully renew job request 14, job is valid till 2024-03-29 8:59:43 PM
+[2024-03-29 20:50:08Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2024-03-29 20:50:08Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2024-03-29 20:50:08Z INFO ProcessInvokerWrapper] Finished process 18816 with exit code 102, and elapsed time 00:01:25.3913604.
+[2024-03-29 20:50:08Z INFO JobDispatcher] Worker finished for job 6621f301-ad18-5d46-97dd-869f4cb20c65. Code: 102
+[2024-03-29 20:50:08Z INFO JobDispatcher] finish job request for job 6621f301-ad18-5d46-97dd-869f4cb20c65 with result: Failed
+[2024-03-29 20:50:08Z INFO Terminal] WRITE LINE: 2024-03-29 20:50:08Z: Job build (18.x) completed with result: Failed
+[2024-03-29 20:50:08Z INFO JobDispatcher] Stop renew job request for job 6621f301-ad18-5d46-97dd-869f4cb20c65.
+[2024-03-29 20:50:08Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 14.
+[2024-03-29 20:50:08Z INFO JobNotification] Entering JobCompleted Notification
+[2024-03-29 20:50:08Z INFO JobNotification] Entering EndMonitor
+[2024-03-29 20:50:08Z INFO MessageListener] Received job status event. JobState: Online
+[2024-03-29 20:50:08Z WARN GitHubActionsService] GET request to https://pipelinesghubeus9.actions.githubusercontent.com/Cpi1gS6STmIRhGqtqtK1TgAG1Pnw4DzNCS043vTvHTazqrCoTG/_apis/distributedtask/pools/1/messages?sessionId=860e785d-eb18-4519-9419-807f7f913659&lastMessageId=7&status=Busy&runnerVersion=2.314.1&os=Windows&architecture=X64&disableUpdate=false has been cancelled.
+[2024-03-29 20:50:08Z INFO MessageListener] Get messages has been cancelled using local token source. Continue to get messages with new status.
+[2024-03-29 20:53:44Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\.credentials_rsaparams
+[2024-03-29 20:53:44Z INFO MessageListener] Message '8' received from session '860e785d-eb18-4519-9419-807f7f913659'.
+[2024-03-29 20:53:44Z INFO Runner] Received job message of length 24923 from service, with hash 'e76de7f99e3f7bfbee734089b183380c4066ca1de863ebe7c7affca2ff7daa80'
+[2024-03-29 20:53:44Z INFO JobDispatcher] Job request 15 for plan 514c2e5b-83af-463b-9ab2-0c15e5a7ac67 job 6621f301-ad18-5d46-97dd-869f4cb20c65 received.
+[2024-03-29 20:53:44Z INFO JobDispatcher] Pull OrchestrationId 514c2e5b-83af-463b-9ab2-0c15e5a7ac67.build._18_x from JWT claims
+[2024-03-29 20:53:44Z INFO MessageListener] Received job status event. JobState: Busy
+[2024-03-29 20:53:44Z INFO MessageListener] _getMessagesTokenSource is already disposed.
+[2024-03-29 20:53:44Z INFO JobDispatcher] Job request 6621f301-ad18-5d46-97dd-869f4cb20c65 processed succeed.
+[2024-03-29 20:53:44Z INFO Terminal] WRITE LINE: 2024-03-29 20:53:44Z: Running job: build (18.x)
+[2024-03-29 20:53:44Z INFO JobDispatcher] Start renew job request 15 for job 6621f301-ad18-5d46-97dd-869f4cb20c65.
+[2024-03-29 20:53:45Z INFO JobDispatcher] Successfully renew job request 15, job is valid till 2024-03-29 9:03:45 PM
+[2024-03-29 20:53:45Z INFO HostContext] Well known directory 'Bin': 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\bin'
+[2024-03-29 20:53:45Z INFO ProcessInvokerWrapper] Starting process:
+[2024-03-29 20:53:45Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\bin\Runner.Worker.exe'
+[2024-03-29 20:53:45Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2044 2440'
+[2024-03-29 20:53:45Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\bin'
+[2024-03-29 20:53:45Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2024-03-29 20:53:45Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2024-03-29 20:53:45Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2024-03-29 20:53:45Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2024-03-29 20:53:45Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2024-03-29 20:53:45Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2024-03-29 20:53:45Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2024-03-29 20:53:45Z INFO ProcessInvokerWrapper] Process started with process id 14868, waiting for process exit.
+[2024-03-29 20:53:45Z INFO JobDispatcher] Send job request message to worker for job 6621f301-ad18-5d46-97dd-869f4cb20c65.
+[2024-03-29 20:53:45Z INFO ProcessChannel] Sending message of length 24923, with hash 'e76de7f99e3f7bfbee734089b183380c4066ca1de863ebe7c7affca2ff7daa80'
+[2024-03-29 20:53:45Z INFO JobNotification] Entering JobStarted Notification
+[2024-03-29 20:53:45Z INFO JobNotification] Entering StartMonitor
+[2024-03-29 20:54:13Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2024-03-29 20:54:13Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2024-03-29 20:54:13Z INFO ProcessInvokerWrapper] Finished process 14868 with exit code 100, and elapsed time 00:00:28.5730220.
+[2024-03-29 20:54:13Z INFO JobDispatcher] Worker finished for job 6621f301-ad18-5d46-97dd-869f4cb20c65. Code: 100
+[2024-03-29 20:54:13Z INFO JobDispatcher] finish job request for job 6621f301-ad18-5d46-97dd-869f4cb20c65 with result: Succeeded
+[2024-03-29 20:54:13Z INFO Terminal] WRITE LINE: 2024-03-29 20:54:13Z: Job build (18.x) completed with result: Succeeded
+[2024-03-29 20:54:13Z INFO JobDispatcher] Stop renew job request for job 6621f301-ad18-5d46-97dd-869f4cb20c65.
+[2024-03-29 20:54:13Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 15.
+[2024-03-29 20:54:13Z INFO JobNotification] Entering JobCompleted Notification
+[2024-03-29 20:54:13Z INFO JobNotification] Entering EndMonitor
+[2024-03-29 20:54:13Z INFO MessageListener] Received job status event. JobState: Online
+[2024-03-29 20:54:13Z WARN GitHubActionsService] GET request to https://pipelinesghubeus9.actions.githubusercontent.com/Cpi1gS6STmIRhGqtqtK1TgAG1Pnw4DzNCS043vTvHTazqrCoTG/_apis/distributedtask/pools/1/messages?sessionId=860e785d-eb18-4519-9419-807f7f913659&lastMessageId=8&status=Busy&runnerVersion=2.314.1&os=Windows&architecture=X64&disableUpdate=false has been cancelled.
+[2024-03-29 20:54:13Z INFO MessageListener] Get messages has been cancelled using local token source. Continue to get messages with new status.
+[2024-03-29 21:02:33Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\.credentials_rsaparams
+[2024-03-29 21:02:33Z INFO MessageListener] Message '9' received from session '860e785d-eb18-4519-9419-807f7f913659'.
+[2024-03-29 21:02:33Z INFO Runner] Received job message of length 25923 from service, with hash '30a4ccad2b7d454cb9a6f4698b605bc5d6d695b139aa7ff844183071f58e55b3'
+[2024-03-29 21:02:33Z INFO JobDispatcher] Job request 16 for plan 7f968dff-f723-4270-aafd-81877339ec13 job 6621f301-ad18-5d46-97dd-869f4cb20c65 received.
+[2024-03-29 21:02:33Z INFO JobDispatcher] Pull OrchestrationId 7f968dff-f723-4270-aafd-81877339ec13.build._18_x from JWT claims
+[2024-03-29 21:02:33Z INFO MessageListener] Received job status event. JobState: Busy
+[2024-03-29 21:02:33Z INFO MessageListener] _getMessagesTokenSource is already disposed.
+[2024-03-29 21:02:33Z INFO JobDispatcher] Job request 6621f301-ad18-5d46-97dd-869f4cb20c65 processed succeed.
+[2024-03-29 21:02:33Z INFO Terminal] WRITE LINE: 2024-03-29 21:02:33Z: Running job: build (18.x)
+[2024-03-29 21:02:33Z INFO JobDispatcher] Start renew job request 16 for job 6621f301-ad18-5d46-97dd-869f4cb20c65.
+[2024-03-29 21:02:34Z INFO JobDispatcher] Successfully renew job request 16, job is valid till 2024-03-29 9:12:34 PM
+[2024-03-29 21:02:34Z INFO HostContext] Well known directory 'Bin': 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\bin'
+[2024-03-29 21:02:34Z INFO ProcessInvokerWrapper] Starting process:
+[2024-03-29 21:02:34Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\bin\Runner.Worker.exe'
+[2024-03-29 21:02:34Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2388 1276'
+[2024-03-29 21:02:34Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\etbra\OneDrive\Documents\GitHub\ci-cd-testing-gh-actions\deploy\bin'
+[2024-03-29 21:02:34Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2024-03-29 21:02:34Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2024-03-29 21:02:34Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2024-03-29 21:02:34Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2024-03-29 21:02:34Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2024-03-29 21:02:34Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2024-03-29 21:02:34Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2024-03-29 21:02:34Z INFO ProcessInvokerWrapper] Process started with process id 17092, waiting for process exit.
+[2024-03-29 21:02:34Z INFO JobDispatcher] Send job request message to worker for job 6621f301-ad18-5d46-97dd-869f4cb20c65.
+[2024-03-29 21:02:34Z INFO ProcessChannel] Sending message of length 25923, with hash '30a4ccad2b7d454cb9a6f4698b605bc5d6d695b139aa7ff844183071f58e55b3'
+[2024-03-29 21:02:34Z INFO JobNotification] Entering JobStarted Notification
+[2024-03-29 21:02:34Z INFO JobNotification] Entering StartMonitor
+[2024-03-29 21:03:34Z INFO JobDispatcher] Successfully renew job request 16, job is valid till 2024-03-29 9:13:34 PM
+[2024-03-29 21:03:43Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2024-03-29 21:03:43Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2024-03-29 21:03:43Z INFO ProcessInvokerWrapper] Finished process 17092 with exit code 100, and elapsed time 00:01:09.8850154.
+[2024-03-29 21:03:43Z INFO JobDispatcher] Worker finished for job 6621f301-ad18-5d46-97dd-869f4cb20c65. Code: 100
+[2024-03-29 21:03:43Z INFO JobDispatcher] finish job request for job 6621f301-ad18-5d46-97dd-869f4cb20c65 with result: Succeeded
+[2024-03-29 21:03:43Z INFO Terminal] WRITE LINE: 2024-03-29 21:03:43Z: Job build (18.x) completed with result: Succeeded
+[2024-03-29 21:03:43Z INFO JobDispatcher] Stop renew job request for job 6621f301-ad18-5d46-97dd-869f4cb20c65.
+[2024-03-29 21:03:43Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 16.
+[2024-03-29 21:03:43Z INFO JobNotification] Entering JobCompleted Notification
+[2024-03-29 21:03:43Z INFO JobNotification] Entering EndMonitor
+[2024-03-29 21:03:43Z INFO MessageListener] Received job status event. JobState: Online
+[2024-03-29 21:03:43Z WARN GitHubActionsService] GET request to https://pipelinesghubeus9.actions.githubusercontent.com/Cpi1gS6STmIRhGqtqtK1TgAG1Pnw4DzNCS043vTvHTazqrCoTG/_apis/distributedtask/pools/1/messages?sessionId=860e785d-eb18-4519-9419-807f7f913659&lastMessageId=9&status=Busy&runnerVersion=2.314.1&os=Windows&architecture=X64&disableUpdate=false has been cancelled.
+[2024-03-29 21:03:43Z INFO MessageListener] Get messages has been cancelled using local token source. Continue to get messages with new status.

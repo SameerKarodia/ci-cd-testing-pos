@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "Deploy",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus9.actions.githubusercontent.com/Cpi1gS6STmIRhGqtqtK1TgAG1Pnw4DzNCS043vTvHTazqrCoTG/",
+  "gitHubUrl": "https://github.com/sameerkarodia/ci-cd-testing-pos",
+  "workFolder": "_work"
+}
